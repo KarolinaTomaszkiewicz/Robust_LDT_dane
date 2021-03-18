@@ -1,6 +1,0 @@
-A=2
-sigma=0.1
-noise=0.1
-t_min=0
-t_max=45
-n_outliers=5
